@@ -1,2 +1,3 @@
-# sample-auth-web3-react
-Sample Web3-React app that integrates with the Arcana Auth SDK
+# example-next
+
+This is an example app built with [Next.js](https://nextjs.org/) that showcases some basic web3-react usage patterns.
